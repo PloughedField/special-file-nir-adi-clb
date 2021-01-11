@@ -64,11 +64,11 @@ function replace_words_in_file(file_name,word,new_word) {
     fs.readFile(file_name, 'utf8', function(err, content_file){ 
    
     const lines = content_file.split("\n");
-    console.log(lines)
+    //console.log(lines)
     var x ;
     var str ;
     for (x of lines) {
-        console.log(x.replace(word,new_word))
+        //console.log(x.replace(word,new_word))
         str += x.replace(word,new_word)+'\n'
     }
         
