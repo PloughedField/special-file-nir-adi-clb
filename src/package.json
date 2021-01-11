@@ -1,0 +1,19 @@
+{
+  "name": "special-file-nir-adi-clb",
+  "version": "1.0.7",
+  "description": "Performing operations on a file (counting, replacing, etc.)",
+  "main": "launcher.js",
+  "keywords": [
+    "file",
+    "common word",
+    "count lines",
+    "count words",
+    "replace words",
+    "CLB",
+    "delete",
+    "count",
+    "wirte"
+  ],
+  "author": "nir-alon",
+  "license": "ISC"
+}
