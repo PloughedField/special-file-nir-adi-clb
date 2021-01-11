@@ -1,6 +1,6 @@
 {
   "name": "special-file-nir-adi-clb",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Performing operations on a file (counting, replacing, etc.)",
   "main": "launcher.js",
   "keywords": [
